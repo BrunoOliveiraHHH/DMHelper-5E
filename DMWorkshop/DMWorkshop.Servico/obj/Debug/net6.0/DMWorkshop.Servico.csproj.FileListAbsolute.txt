@@ -1,0 +1,12 @@
+C:\Projects\DMHelper5E\DMWorkshop\DMWorkshop.Servico\bin\Debug\net6.0\DMWorkshop.Servico.deps.json
+C:\Projects\DMHelper5E\DMWorkshop\DMWorkshop.Servico\bin\Debug\net6.0\DMWorkshop.Servico.dll
+C:\Projects\DMHelper5E\DMWorkshop\DMWorkshop.Servico\bin\Debug\net6.0\DMWorkshop.Servico.pdb
+C:\Projects\DMHelper5E\DMWorkshop\DMWorkshop.Servico\obj\Debug\net6.0\DMWorkshop.Servico.csproj.AssemblyReference.cache
+C:\Projects\DMHelper5E\DMWorkshop\DMWorkshop.Servico\obj\Debug\net6.0\DMWorkshop.Servico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\DMHelper5E\DMWorkshop\DMWorkshop.Servico\obj\Debug\net6.0\DMWorkshop.Servico.AssemblyInfoInputs.cache
+C:\Projects\DMHelper5E\DMWorkshop\DMWorkshop.Servico\obj\Debug\net6.0\DMWorkshop.Servico.AssemblyInfo.cs
+C:\Projects\DMHelper5E\DMWorkshop\DMWorkshop.Servico\obj\Debug\net6.0\DMWorkshop.Servico.csproj.CoreCompileInputs.cache
+C:\Projects\DMHelper5E\DMWorkshop\DMWorkshop.Servico\obj\Debug\net6.0\DMWorkshop.Servico.dll
+C:\Projects\DMHelper5E\DMWorkshop\DMWorkshop.Servico\obj\Debug\net6.0\refint\DMWorkshop.Servico.dll
+C:\Projects\DMHelper5E\DMWorkshop\DMWorkshop.Servico\obj\Debug\net6.0\DMWorkshop.Servico.pdb
+C:\Projects\DMHelper5E\DMWorkshop\DMWorkshop.Servico\obj\Debug\net6.0\ref\DMWorkshop.Servico.dll

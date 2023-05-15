@@ -1,0 +1,12 @@
+C:\Projects\DMHelper5E\DMWorkshop\DMWorkshop.Dados\bin\Debug\net6.0\DMWorkshop.Dados.deps.json
+C:\Projects\DMHelper5E\DMWorkshop\DMWorkshop.Dados\bin\Debug\net6.0\DMWorkshop.Dados.dll
+C:\Projects\DMHelper5E\DMWorkshop\DMWorkshop.Dados\bin\Debug\net6.0\DMWorkshop.Dados.pdb
+C:\Projects\DMHelper5E\DMWorkshop\DMWorkshop.Dados\obj\Debug\net6.0\DMWorkshop.Dados.csproj.AssemblyReference.cache
+C:\Projects\DMHelper5E\DMWorkshop\DMWorkshop.Dados\obj\Debug\net6.0\DMWorkshop.Dados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\DMHelper5E\DMWorkshop\DMWorkshop.Dados\obj\Debug\net6.0\DMWorkshop.Dados.AssemblyInfoInputs.cache
+C:\Projects\DMHelper5E\DMWorkshop\DMWorkshop.Dados\obj\Debug\net6.0\DMWorkshop.Dados.AssemblyInfo.cs
+C:\Projects\DMHelper5E\DMWorkshop\DMWorkshop.Dados\obj\Debug\net6.0\DMWorkshop.Dados.csproj.CoreCompileInputs.cache
+C:\Projects\DMHelper5E\DMWorkshop\DMWorkshop.Dados\obj\Debug\net6.0\DMWorkshop.Dados.dll
+C:\Projects\DMHelper5E\DMWorkshop\DMWorkshop.Dados\obj\Debug\net6.0\refint\DMWorkshop.Dados.dll
+C:\Projects\DMHelper5E\DMWorkshop\DMWorkshop.Dados\obj\Debug\net6.0\DMWorkshop.Dados.pdb
+C:\Projects\DMHelper5E\DMWorkshop\DMWorkshop.Dados\obj\Debug\net6.0\ref\DMWorkshop.Dados.dll
